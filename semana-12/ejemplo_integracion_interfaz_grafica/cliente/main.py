@@ -4,6 +4,10 @@ from PyQt5.QtWidgets import QApplication
 from constantes import PORT_DEFECTO, HOST_DEFECTO
 import sys
 
+
+
+
+
 if __name__ == "__main__":
     # Hood para imprimir errores
     def hook(type_, value, traceback):
